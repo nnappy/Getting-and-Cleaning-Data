@@ -37,7 +37,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 -------------------------------------------------------------------------------
 The "UCI HAR Dataset" from the link in the "Dataset" section of this readme 
 must be downloaded and unzipped into the R working directory for the 
-run_analysis.R script for work properly.
+run_analysis.R script to work properly.
 
 -------------------------------------------------------------------------------
 #### Contact Information
